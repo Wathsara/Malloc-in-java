@@ -8,8 +8,4 @@
 
 4. All the data structures that are required to manage the memory must also reside within the same array.
 
-5. MyMalloc() and MyFree() must be in a file called mymalloc.c. You should also provide a suitable header file mymalloc.h.
-
-6. Our test program contains the main() and it includes mymalloc.h. Do not include a main() in your mymalloc.c.
-
-7. Upload only the mymalloc.c and mymalloc.h to UGVLE by the due date.
+5. Upload only the mymalloc.c and mymalloc.h to UGVLE by the due date.
